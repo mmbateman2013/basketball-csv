@@ -1,0 +1,325 @@
+half,time,team,event,away_score,home_score
+1,20:00,Baylor,Jump Ball won by Baylor,0,0
+1,19:42,Baylor,Kendall Brown missed Jumper.,0,0
+1,19:42,Arkansas PB,Kylen Milton Defensive Rebound.,0,0
+1,19:15,Arkansas PB,Brahm Harris missed Three Point Jumper.,0,0
+1,19:15,Baylor,Matthew Mayer Defensive Rebound.,0,0
+1,18:56,Baylor,James Akinjo missed Three Point Jumper.,0,0
+1,18:56,Baylor,Flo Thamba Offensive Rebound.,0,0
+1,18:39,Arkansas PB,Foul on Shawn Williams.,0,0
+1,18:39,Baylor,Flo Thamba made Free Throw.,0,1
+1,18:39,Baylor,Flo Thamba made Free Throw.,0,2
+1,18:26,Arkansas PB,Kylen Milton made Dunk. Assisted by Shawn Williams.,2,2
+1,18:13,Baylor,James Akinjo missed Jumper.,2,2
+1,18:13,Baylor,Kendall Brown Offensive Rebound.,2,2
+1,17:55,Baylor,Foul on Kendall Brown.,2,2
+1,17:55,Baylor,Kendall Brown Turnover.,2,2
+1,17:46,Arkansas PB,Trey Sampson made Three Point Jumper. Assisted by Shawn Williams.,5,2
+1,17:35,Baylor,Adam Flagler made Three Point Jumper.,5,5
+1,17:25,Arkansas PB,Brahm Harris Turnover.,5,5
+1,17:19,Baylor,Matthew Mayer made Three Point Jumper. Assisted by Adam Flagler.,5,8
+1,17:03,Arkansas PB,Brahm Harris missed Jumper.,5,8
+1,17:03,Baylor,Flo Thamba Defensive Rebound.,5,8
+1,16:49,Baylor,Adam Flagler missed Three Point Jumper.,5,8
+1,16:49,Baylor,Flo Thamba Offensive Rebound.,5,8
+1,16:43,Baylor,Flo Thamba missed Layup.,5,8
+1,16:43,Arkansas PB,Trey Sampson Defensive Rebound.,5,8
+1,16:28,Arkansas PB,Shawn Williams missed Three Point Jumper.,5,8
+1,16:28,Baylor,Matthew Mayer Defensive Rebound.,5,8
+1,16:18,Baylor,Adam Flagler missed Three Point Jumper.,5,8
+1,16:18,Baylor,Flo Thamba Offensive Rebound.,5,8
+1,16:18,Arkansas PB,Foul on AJ Stredic.,5,8
+1,16:03,Baylor,Jeremy Sochan made Jumper. Assisted by LJ Cryer.,5,10
+1,15:47,Arkansas PB,Kylen Milton Turnover.,5,10
+1,15:47,Baylor,Jeremy Sochan Steal.,5,10
+1,15:42,Baylor,Jonathan Tchamwa Tchatchoua made Dunk. Assisted by Jeremy Sochan.,5,12
+1,15:41,Arkansas PB,Arkansas-Pine Bluff  Timeout,5,12
+1,15:33,Arkansas PB,Jaylan Thomas missed Three Point Jumper.,5,12
+1,15:33,Baylor,Jeremy Sochan Defensive Rebound.,5,12
+1,15:18,Baylor,Jonathan Tchamwa Tchatchoua missed Layup.,5,12
+1,15:18,Baylor,Jonathan Tchamwa Tchatchoua Offensive Rebound.,5,12
+1,15:18,Baylor,Jonathan Tchamwa Tchatchoua missed Two Point Tip Shot.,5,12
+1,15:18,Baylor,Kendall Brown Offensive Rebound.,5,12
+1,15:18,Baylor,Kendall Brown made Two Point Tip Shot.,5,14
+1,14:58,Arkansas PB,Jaylan Thomas made Layup. Assisted by Shawn Williams.,7,14
+1,14:49,Baylor,LJ Cryer made Three Point Jumper.,7,17
+1,14:30,Arkansas PB,Brandon Brown made Layup. Assisted by Trey Sampson.,9,17
+1,14:16,Baylor,Kendall Brown made Layup.,9,19
+1,14:01,Arkansas PB,Kylen Milton missed Three Point Jumper.,9,19
+1,14:01,Baylor,James Akinjo Defensive Rebound.,9,19
+1,13:53,Arkansas PB,Foul on Trey Sampson.,9,19
+1,13:42,Baylor,LJ Cryer made Three Point Jumper. Assisted by James Akinjo.,9,22
+1,13:30,Arkansas PB,Jaylan Thomas Turnover.,9,22
+1,13:30,Baylor,Jeremy Sochan Steal.,9,22
+1,13:25,Baylor,Jeremy Sochan Turnover.,9,22
+1,13:25,Arkansas PB,Shawn Williams Steal.,9,22
+1,13:22,Arkansas PB,Brandon Brown made Layup. Assisted by Shawn Williams.,11,22
+1,13:03,Baylor,James Akinjo missed Three Point Jumper.,11,22
+1,13:03,Arkansas PB,Jaylan Thomas Defensive Rebound.,11,22
+1,12:42,Arkansas PB,Brandon Brown Turnover.,11,22
+1,12:42,Baylor,Adam Flagler Steal.,11,22
+1,12:38,Baylor,James Akinjo made Layup. Assisted by Adam Flagler.,11,24
+1,12:20,Baylor,Foul on Jeremy Sochan.,11,24
+1,12:15,Arkansas PB,Kylen Milton made Jumper.,13,24
+1,11:58,Baylor,LJ Cryer Turnover.,13,24
+1,11:58,Baylor,Official TV Timeout,13,24
+1,11:52,Arkansas PB,Kylen Milton missed Jumper.,13,24
+1,11:52,Baylor,Matthew Mayer Defensive Rebound.,13,24
+1,11:34,Baylor,Kendall Brown missed Three Point Jumper.,13,24
+1,11:34,Arkansas PB,Kylen Milton Defensive Rebound.,13,24
+1,11:23,Arkansas PB,Jaylan Thomas missed Three Point Jumper.,13,24
+1,11:23,Baylor,Matthew Mayer Defensive Rebound.,13,24
+1,10:56,Baylor,Adam Flagler Turnover.,13,24
+1,10:42,Arkansas PB,Kylen Milton missed Three Point Jumper.,13,24
+1,10:42,Baylor,Flo Thamba Defensive Rebound.,13,24
+1,10:34,Baylor,Matthew Mayer made Three Point Jumper.,13,27
+1,10:09,Arkansas PB,Brandon Brown missed Jumper.,13,27
+1,10:09,Baylor,Matthew Mayer Block.,13,27
+1,10:09,Arkansas PB,Kylen Milton Offensive Rebound.,13,27
+1,10:03,Arkansas PB,AJ Stredic made Jumper.,15,27
+1,9:45,Baylor,Matthew Mayer missed Three Point Jumper.,15,27
+1,9:45,Baylor,Flo Thamba Offensive Rebound.,15,27
+1,9:40,Baylor,Flo Thamba missed Layup.,15,27
+1,9:40,Arkansas PB,Brahm Harris Defensive Rebound.,15,27
+1,9:30,Arkansas PB,Brahm Harris missed Three Point Jumper.,15,27
+1,9:30,Baylor,Matthew Mayer Defensive Rebound.,15,27
+1,9:13,Baylor,Adam Flagler Turnover.,15,27
+1,9:03,Arkansas PB,Shawn Williams missed Three Point Jumper.,15,27
+1,9:03,Arkansas PB,Kylen Milton Offensive Rebound.,15,27
+1,8:58,Arkansas PB,Shawn Williams missed Three Point Jumper.,15,27
+1,8:58,Baylor,James Akinjo Defensive Rebound.,15,27
+1,8:44,Baylor,LJ Cryer made Three Point Jumper.,15,30
+1,8:10,Arkansas PB,Shawn Williams missed Jumper.,15,30
+1,8:10,Baylor,Jeremy Sochan Defensive Rebound.,15,30
+1,7:41,Baylor,Jonathan Tchamwa Tchatchoua made Layup.,15,32
+1,7:41,Arkansas PB,Foul on AJ Stredic.,15,32
+1,7:41,Baylor,Official TV Timeout,15,32
+1,7:41,Baylor,Jonathan Tchamwa Tchatchoua made Free Throw.,15,33
+1,7:10,Arkansas PB,Kylen Milton Turnover.,15,33
+1,7:01,Baylor,Jeremy Sochan made Layup. Assisted by James Akinjo.,15,35
+1,6:26,Arkansas PB,Shawn Williams Turnover.,15,35
+1,6:16,Baylor,LJ Cryer missed Three Point Jumper.,15,35
+1,6:16,Baylor,Jonathan Tchamwa Tchatchoua Offensive Rebound.,15,35
+1,6:09,Baylor,Adam Flagler missed Three Point Jumper.,15,35
+1,6:09,Baylor,Jonathan Tchamwa Tchatchoua Offensive Rebound.,15,35
+1,6:01,Baylor,LJ Cryer missed Three Point Jumper.,15,35
+1,6:01,Arkansas PB,AJ Stredic Defensive Rebound.,15,35
+1,5:29,Arkansas PB,Jaylan Thomas missed Jumper.,15,35
+1,5:29,Baylor,Jonathan Tchamwa Tchatchoua Defensive Rebound.,15,35
+1,5:18,Baylor,Adam Flagler missed Three Point Jumper.,15,35
+1,5:18,Baylor,Jeremy Sochan Offensive Rebound.,15,35
+1,5:12,Baylor,Jeremy Sochan missed Jumper.,15,35
+1,5:12,Arkansas PB,Jaylan Thomas Defensive Rebound.,15,35
+1,4:53,Arkansas PB,Kylen Milton missed Three Point Jumper.,15,35
+1,4:53,Baylor,Jonathan Tchamwa Tchatchoua Defensive Rebound.,15,35
+1,4:40,Baylor,James Akinjo made Three Point Jumper.,15,38
+1,4:18,Arkansas PB,Isaiah Haralson Turnover.,15,38
+1,4:18,Baylor,James Akinjo Steal.,15,38
+1,4:09,Baylor,James Akinjo Turnover.,15,38
+1,4:09,Arkansas PB,Isaiah Haralson Steal.,15,38
+1,3:43,Arkansas PB,Jaylan Thomas missed Three Point Jumper.,15,38
+1,3:43,Baylor,Baylor Defensive Rebound.,15,38
+1,3:39,Baylor,Official TV Timeout,15,38
+1,3:29,Baylor,James Akinjo missed Jumper.,15,38
+1,3:29,Arkansas PB,Brandon Brown Defensive Rebound.,15,38
+1,3:05,Arkansas PB,Kylen Milton made Layup.,17,38
+1,2:48,Baylor,LJ Cryer missed Layup.,17,38
+1,2:48,Arkansas PB,Trey Sampson Defensive Rebound.,17,38
+1,2:25,Arkansas PB,Trey Sampson missed Three Point Jumper.,17,38
+1,2:25,Arkansas PB,Brandon Brown Offensive Rebound.,17,38
+1,2:18,Arkansas PB,Brandon Brown made Layup.,19,38
+1,2:08,Baylor,Kendall Brown Turnover.,19,38
+1,2:08,Arkansas PB,Shawn Williams Steal.,19,38
+1,1:49,Arkansas PB,Trey Sampson missed Layup.,19,38
+1,1:48,Baylor,Jonathan Tchamwa Tchatchoua Defensive Rebound.,19,38
+1,1:43,Arkansas PB,Foul on Brandon Brown.,19,38
+1,1:43,Baylor,Jonathan Tchamwa Tchatchoua made Free Throw.,19,39
+1,1:43,Baylor,Jonathan Tchamwa Tchatchoua made Free Throw.,19,40
+1,1:39,Arkansas PB,Shawn Williams missed Three Point Jumper.,19,40
+1,1:39,Baylor,Jonathan Tchamwa Tchatchoua Defensive Rebound.,19,40
+1,1:27,Arkansas PB,Foul on Brandon Brown.,19,40
+1,1:27,Baylor,LJ Cryer made Free Throw.,19,41
+1,1:27,Baylor,LJ Cryer missed Free Throw.,19,41
+1,1:27,Baylor,Jonathan Tchamwa Tchatchoua Offensive Rebound.,19,41
+1,1:18,Baylor,LJ Cryer missed Jumper.,19,41
+1,1:18,Baylor,Jonathan Tchamwa Tchatchoua Offensive Rebound.,19,41
+1,1:18,Baylor,Jonathan Tchamwa Tchatchoua made Two Point Tip Shot.,19,43
+1,1:18,Arkansas PB,Foul on Trey Sampson.,19,43
+1,1:18,Baylor,Jonathan Tchamwa Tchatchoua made Free Throw.,19,44
+1,1:01,Arkansas PB,Shawn Williams Turnover.,19,44
+1,1:01,Baylor,Jonathan Tchamwa Tchatchoua Steal.,19,44
+1,0:59,Baylor,Jonathan Tchamwa Tchatchoua Turnover.,19,44
+1,0:59,Arkansas PB,Brandon Brown Steal.,19,44
+1,0:34,Arkansas PB,Shawn Williams made Jumper. Assisted by Brandon Brown.,21,44
+1,0:02,Baylor,LJ Cryer missed Three Point Jumper.,21,44
+1,0:02,Arkansas PB,Kshun Stokes Block.,21,44
+1,0:02,Arkansas PB,Shawn Williams Defensive Rebound.,21,44
+1,0:00,Baylor,End of 1st half,21,44
+2,20:00,Arkansas PB,Jump Ball won by Arkansas-Pine Bluff,21,44
+2,19:43,Arkansas PB,Jaylan Thomas Turnover.,21,44
+2,19:43,Baylor,Matthew Mayer Steal.,21,44
+2,19:41,Arkansas PB,Foul on Jaylan Thomas.,21,44
+2,19:41,Baylor,Matthew Mayer missed Free Throw.,21,44
+2,19:41,Baylor,Baylor Deadball Team Rebound.,21,44
+2,19:41,Baylor,Matthew Mayer made Free Throw.,21,45
+2,19:19,Arkansas PB,Isaiah Haralson missed Three Point Jumper.,21,45
+2,19:19,Baylor,Flo Thamba Block.,21,45
+2,19:19,Baylor,Kendall Brown Defensive Rebound.,21,45
+2,19:11,Baylor,Kendall Brown made Jumper.,21,47
+2,19:11,Arkansas PB,Foul on Shawn Williams.,21,47
+2,19:11,Baylor,Kendall Brown made Free Throw.,21,48
+2,19:05,Arkansas PB,Brandon Brown Turnover.,21,48
+2,19:05,Baylor,Kendall Brown Steal.,21,48
+2,19:01,Baylor,Kendall Brown made Layup.,21,50
+2,18:34,Baylor,James Akinjo made Three Point Jumper.,21,53
+2,17:57,Arkansas PB,Trey Sampson Turnover.,21,53
+2,17:49,Baylor,James Akinjo Turnover.,21,53
+2,17:23,Arkansas PB,Brandon Brown made Jumper.,23,53
+2,17:05,Baylor,Kendall Brown made Jumper.,23,55
+2,16:58,Arkansas PB,Kylen Milton missed Three Point Jumper.,23,55
+2,16:58,Baylor,Flo Thamba Defensive Rebound.,23,55
+2,16:37,Baylor,Adam Flagler missed Jumper.,23,55
+2,16:37,Arkansas PB,Shawn Williams Defensive Rebound.,23,55
+2,16:28,Arkansas PB,Shawn Williams made Layup.,25,55
+2,16:10,Baylor,Matthew Mayer made Three Point Jumper. Assisted by James Akinjo.,25,58
+2,15:48,Baylor,Foul on Flo Thamba.,25,58
+2,15:48,Baylor,Official TV Timeout,25,58
+2,15:48,Arkansas PB,Brandon Brown made Free Throw.,26,58
+2,15:48,Arkansas PB,Brandon Brown missed Free Throw.,26,58
+2,15:48,Baylor,Jonathan Tchamwa Tchatchoua Defensive Rebound.,26,58
+2,15:30,Arkansas PB,Foul on Kshun Stokes.,26,58
+2,15:30,Baylor,Jeremy Sochan made Free Throw.,26,59
+2,15:30,Baylor,Jeremy Sochan missed Free Throw.,26,59
+2,15:30,Baylor,Baylor Deadball Team Rebound.,26,59
+2,15:30,Baylor,Jeremy Sochan made Free Throw.,26,60
+2,15:20,Arkansas PB,Kshun Stokes Turnover.,26,60
+2,15:08,Baylor,Jeremy Sochan made Dunk. Assisted by Matthew Mayer.,26,62
+2,15:00,Baylor,Foul on Matthew Mayer.,26,62
+2,14:50,Arkansas PB,Kylen Milton Turnover.,26,62
+2,14:31,Baylor,Matthew Mayer made Three Point Jumper. Assisted by Jeremy Sochan.,26,65
+2,14:02,Arkansas PB,Shawn Williams made Three Point Jumper. Assisted by Brandon Brown.,29,65
+2,13:44,Arkansas PB,Foul on Brandon Brown.,29,65
+2,13:36,Baylor,Matthew Mayer missed Jumper.,29,65
+2,13:36,Baylor,Matthew Mayer Offensive Rebound.,29,65
+2,13:31,Arkansas PB,Foul on Brandon Brown.,29,65
+2,13:31,Baylor,Matthew Mayer made Free Throw.,29,66
+2,13:31,Baylor,Matthew Mayer missed Free Throw.,29,66
+2,13:31,Arkansas PB,Kylen Milton Defensive Rebound.,29,66
+2,13:21,Arkansas PB,Shawn Williams missed Three Point Jumper.,29,66
+2,13:21,Baylor,Matthew Mayer Defensive Rebound.,29,66
+2,13:13,Baylor,Jeremy Sochan Turnover.,29,66
+2,13:13,Arkansas PB,Shawn Williams Steal.,29,66
+2,13:09,Arkansas PB,Kshun Stokes made Layup. Assisted by Shawn Williams.,31,66
+2,12:57,Arkansas PB,Foul on Brahm Harris.,31,66
+2,12:51,Baylor,LJ Cryer made Layup.,31,68
+2,12:35,Arkansas PB,Shawn Williams missed Three Point Jumper.,31,68
+2,12:35,Baylor,LJ Cryer Defensive Rebound.,31,68
+2,12:13,Arkansas PB,Foul on Jaylan Thomas.,31,68
+2,12:13,Baylor,Jonathan Tchamwa Tchatchoua made Free Throw.,31,69
+2,12:13,Baylor,Jonathan Tchamwa Tchatchoua made Free Throw.,31,70
+2,12:05,Arkansas PB,Brahm Harris missed Layup.,31,70
+2,12:05,Arkansas PB,Trey Sampson Offensive Rebound.,31,70
+2,12:05,Arkansas PB,Trey Sampson made Two Point Tip Shot.,33,70
+2,11:43,Baylor,LJ Cryer missed Three Point Jumper.,33,70
+2,11:43,Baylor,Kendall Brown Offensive Rebound.,33,70
+2,11:36,Baylor,Adam Flagler missed Three Point Jumper.,33,70
+2,11:36,Arkansas PB,Brandon Brown Defensive Rebound.,33,70
+2,11:22,Arkansas PB,Brahm Harris missed Three Point Jumper.,33,70
+2,11:22,Baylor,Jeremy Sochan Defensive Rebound.,33,70
+2,11:14,Baylor,LJ Cryer missed Three Point Jumper.,33,70
+2,11:14,Baylor,Jonathan Tchamwa Tchatchoua Offensive Rebound.,33,70
+2,11:09,Baylor,LJ Cryer made Layup. Assisted by Jonathan Tchamwa Tchatchoua.,33,72
+2,10:50,Arkansas PB,Arkansas-Pine Bluff  Timeout,33,72
+2,10:30,Arkansas PB,Shawn Williams made Three Point Jumper. Assisted by Brandon Brown.,36,72
+2,10:14,Arkansas PB,Foul on AJ Stredic.,36,72
+2,10:14,Baylor,Official TV Timeout,36,72
+2,10:14,Baylor,Jeremy Sochan missed Free Throw.,36,72
+2,10:14,Baylor,Baylor Deadball Team Rebound.,36,72
+2,10:14,Baylor,Jeremy Sochan missed Free Throw.,36,72
+2,10:14,Baylor,Jonathan Tchamwa Tchatchoua Offensive Rebound.,36,72
+2,10:12,Baylor,Jeremy Sochan made Layup. Assisted by Jonathan Tchamwa Tchatchoua.,36,74
+2,9:48,Arkansas PB,Brandon Brown missed Three Point Jumper.,36,74
+2,9:48,Baylor,Adam Flagler Defensive Rebound.,36,74
+2,9:21,Baylor,Jeremy Sochan made Layup.,36,76
+2,9:00,Arkansas PB,Kshun Stokes missed Three Point Jumper.,36,76
+2,9:00,Arkansas PB,Brandon Brown Offensive Rebound.,36,76
+2,9:00,Arkansas PB,Brandon Brown made Two Point Tip Shot.,38,76
+2,8:34,Baylor,Jeremy Sochan Turnover.,38,76
+2,8:26,Arkansas PB,Shawn Williams missed Jumper.,38,76
+2,8:26,Baylor,Dale Bonner Defensive Rebound.,38,76
+2,8:04,Arkansas PB,Foul on Isaiah Haralson.,38,76
+2,8:04,Baylor,LJ Cryer missed Free Throw.,38,76
+2,8:04,Baylor,Baylor Deadball Team Rebound.,38,76
+2,8:04,Baylor,LJ Cryer made Free Throw.,38,77
+2,7:47,Baylor,Foul on Dale Bonner.,38,77
+2,7:47,Baylor,Official TV Timeout,38,77
+2,7:47,Arkansas PB,Kylen Milton made Free Throw.,39,77
+2,7:47,Arkansas PB,Kylen Milton missed Free Throw.,39,77
+2,7:47,Baylor,Jonathan Tchamwa Tchatchoua Defensive Rebound.,39,77
+2,7:40,Baylor,Jonathan Tchamwa Tchatchoua made Layup. Assisted by Dale Bonner.,39,79
+2,7:31,Baylor,Foul on Jonathan Tchamwa Tchatchoua.,39,79
+2,7:24,Baylor,Foul on Zach Loveday.,39,79
+2,7:24,Arkansas PB,Kylen Milton made Free Throw.,40,79
+2,7:24,Arkansas PB,Kylen Milton made Free Throw.,41,79
+2,7:18,Baylor,Flo Thamba made Dunk. Assisted by Jordan Turner.,41,81
+2,7:02,Arkansas PB,Kylen Milton Turnover.,41,81
+2,6:45,Baylor,LJ Cryer made Layup.,41,83
+2,6:27,Arkansas PB,Isaiah Haralson missed Three Point Jumper.,41,83
+2,6:27,Baylor,Flo Thamba Defensive Rebound.,41,83
+2,6:21,Baylor,LJ Cryer made Three Point Jumper.,41,86
+2,5:58,Arkansas PB,Shawn Williams Turnover.,41,86
+2,5:58,Baylor,Flo Thamba Steal.,41,86
+2,5:54,Baylor,Zach Loveday made Three Point Jumper. Assisted by Jordan Turner.,41,89
+2,5:22,Arkansas PB,Shawn Williams missed Jumper.,41,89
+2,5:22,Baylor,Zach Loveday Defensive Rebound.,41,89
+2,4:57,Baylor,LJ Cryer Turnover.,41,89
+2,4:43,Arkansas PB,Travonta Doolittle missed Three Point Jumper.,41,89
+2,4:43,Baylor,Flo Thamba Defensive Rebound.,41,89
+2,4:20,Baylor,Zach Loveday missed Three Point Jumper.,41,89
+2,4:20,Baylor,Jordan Turner Offensive Rebound.,41,89
+2,4:03,Baylor,Jordan Turner missed Three Point Jumper.,41,89
+2,4:03,Baylor,Flo Thamba Offensive Rebound.,41,89
+2,3:56,Baylor,Zach Loveday made Dunk. Assisted by Flo Thamba.,41,91
+2,3:46,Arkansas PB,Brandon Brown made Layup.,43,91
+2,3:24,Arkansas PB,Foul on AJ Stredic.,43,91
+2,3:24,Baylor,Official TV Timeout,43,91
+2,3:24,Baylor,Flo Thamba missed Free Throw.,43,91
+2,3:24,Baylor,Baylor Deadball Team Rebound.,43,91
+2,3:24,Baylor,Flo Thamba missed Free Throw.,43,91
+2,3:24,Arkansas PB,Arkansas-Pine Bluff Defensive Rebound.,43,91
+2,3:04,Baylor,Foul on Mitchell Paul.,43,91
+2,3:04,Arkansas PB,Brandon Brown made Free Throw.,44,91
+2,3:04,Arkansas PB,Brandon Brown made Free Throw.,45,91
+2,2:46,Baylor,Dale Bonner missed Layup.,45,91
+2,2:46,Baylor,Zach Loveday Offensive Rebound.,45,91
+2,2:46,Baylor,Zach Loveday missed Layup.,45,91
+2,2:46,Arkansas PB,Amadou Fall Defensive Rebound.,45,91
+2,2:26,Arkansas PB,Amadou Fall made Layup. Assisted by Gabriel Vargas.,47,91
+2,2:26,Baylor,Foul on Zach Loveday.,47,91
+2,2:26,Arkansas PB,Amadou Fall made Free Throw.,48,91
+2,2:13,Baylor,Dale Bonner missed Three Point Jumper.,48,91
+2,2:13,Arkansas PB,AJ Stredic Defensive Rebound.,48,91
+2,2:05,Arkansas PB,AJ Stredic Turnover.,48,91
+2,2:05,Baylor,Mitchell Paul Steal.,48,91
+2,2:04,Arkansas PB,Foul on AJ Stredic.,48,91
+2,2:04,Baylor,Mitchell Paul made Free Throw.,48,92
+2,2:04,Baylor,Mitchell Paul missed Free Throw.,48,92
+2,2:04,Arkansas PB,Amadou Fall Defensive Rebound.,48,92
+2,1:51,Arkansas PB,Gabriel Vargas Turnover.,48,92
+2,1:51,Baylor,Mitchell Paul Steal.,48,92
+2,1:48,Baylor,Mitchell Paul made Layup.,48,94
+2,1:26,Arkansas PB,Omar Parchman missed Layup.,48,94
+2,1:26,Baylor,Zach Loveday Block.,48,94
+2,1:26,Baylor,Zach Loveday Defensive Rebound.,48,94
+2,1:16,Baylor,Austin Sacks missed Three Point Jumper.,48,94
+2,1:16,Arkansas PB,Brandon Brown Defensive Rebound.,48,94
+2,1:06,Arkansas PB,Brandon Brown made Layup.,50,94
+2,0:48,Baylor,Jordan Turner made Three Point Jumper. Assisted by Dale Bonner.,50,97
+2,0:33,Arkansas PB,Travonta Doolittle made Layup.,52,97
+2,0:19,Baylor,Jordan Turner missed Three Point Jumper.,52,97
+2,0:19,Baylor,Mitchell Paul Offensive Rebound.,52,97
+2,0:16,Baylor,Mitchell Paul made Jumper.,52,99
+2,0:07,Arkansas PB,Brandon Brown missed Layup.,52,99
+2,0:07,Arkansas PB,Brandon Brown Offensive Rebound.,52,99
+2,0:07,Arkansas PB,Brandon Brown made Two Point Tip Shot.,54,99
+2,0:00,Baylor,End of Game,54,99
